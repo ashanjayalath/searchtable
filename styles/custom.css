@@ -1,0 +1,27 @@
+.table{
+    position:center;
+    width: auto;
+    height: auto;
+    margin-left: 50px;
+}
+.gridStyle{
+    width: 1100px;
+    border-radius:10px;
+    text-align: center;
+    height: auto;
+    /*background-color: rgba(187, 180, 180, 0.12);*/
+    margin-left: 50px;
+    margin-top: 50px;
+    /*box-shadow: 0 0 5px #bbb4b4,0 0 10px #bbb4b4;*/
+}
+.search{
+    width:500px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.list{
+    margin-left: 20px;
+    width: auto;
+    height: auto;
+    margin-right: 20px;
+}
